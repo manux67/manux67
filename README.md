@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @manux67
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-manux67/manux67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Sobre mim
+- 👋 Olà, meu nome é @manux67
+- :+1: Meu email de contato è emanuelly.dealmeida.martins@escola.pr.gov.br
+- 👀 Eu estou interessado em aprender a programar novas linguagens.
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
